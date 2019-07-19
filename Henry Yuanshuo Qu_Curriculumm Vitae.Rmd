@@ -1,0 +1,285 @@
+---
+title: "Henry Y. Qu"
+author: "Henry Y. Qu"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+Aside
+================================================================================
+
+
+![Henry Qu](./ProfilePic.png){width=80%}
+
+PhD student specializing in Bayesian data analysis, population genetics and teaching. On the market for agricultural data science positions.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope" style="font-size:13px"></i> yuanshuo.qu@rutgers.edu
+- <i class="fa fa-linkedin-square" style="font-size:15px"></i> [linkedin.com/in/henryyqu](https://www.linkedin.com/in/henryyqu/)
+- <i class="fa fa-phone" style="font-size:13px"></i> +1 732-482-1243
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Expert in R and R Studio.
+
+- Experienced in Bayesian data analysis with JAGS and BUGS.
+
+- Expert in communicating to scientific and general public.
+
+- Some SAS, Python and SQL
+
+- Agronomy
+
+- Github
+
+
+ 
+Main
+================================================================================
+
+"Henry" Yuanshuo Qu {#title}
+--------------------------------------------------------------------------------
+
+I am a perpetual, quick learner and keen to explore the realm of plant genetics and data science. I am deeply excited about the times we live in and the rate at which data is being generated, analyzed and transformed. I am well versed with a few tools for dealing with data in crop genetics and agronomy, and looking forward to put what I have learned into modern agricultural practices.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Rutgers University
+
+PhD in Plant Breeding and Genetics, GPA: 3.8
+
+New Brunswick, NJ
+
+2014--present
+
+Dissertation: Evaluation and Genetic Analysis of Tall Fescue(*Schedonorus arundinaceus*) for Drought Tolerance under Bayesian Framework.
+
+### Rutgers University
+
+M.S. in Statistics, GPA: 3.9
+
+Piscataway, NJ
+
+2015--2017
+
+
+### Rutgers Univeristy
+
+B.A. in Plant Science, GPA: 3.8
+
+New Brunswick, NJ
+
+2011--2013
+
+### Shanghai Jiao Tong Univeristy
+
+B.E. in Food Science and Engineering, GPA: 3.3
+
+Shanghai, CN
+
+2011--2013
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Rutgers University
+
+New Brunswick, NJ
+
+2014--2019
+
+- Designed and carried out multiple field trials for evaluation of turfgrass speices and cultivars
+- Developed Bayesian approaches to analyzing plant population datasets
+- Provided statistics consulting to other graduate students and researchers.
+
+### Undergraduate Research Assistant
+
+Rutgers University
+
+New Brunswick, NJ
+
+2011--2013
+
+- Assisted professors and graduate students with field experiments
+- Equipment operations and daily care of field studies
+
+Selected Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Turfgrass ID and Development
+
+Rutgers Professional Golf Turf Management School
+
+New Brunswick, NJ
+
+2017--2019
+
+- Designed course curriculum, lesson plans, and assessment tools for diverse groups of students.
+- Chaperoned field trips to encourage hands-on learning. 
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### Application of Bayesian Statistics to Genotype Evaluation and Phenotypic Selection
+
+PowerPoint presentation at 2018 ASA and CSSA Meeting
+
+Baltimore, MD
+
+Nov 2018
+
+**HY Qu**, EJ Green, SA Bonos, WA Meyer
+
+
+### Turf Industry in the United States 
+Invited presentation on agricultural technology achievements transformation ana application
+
+Newark, NJ
+
+Feb 2017
+
+**HY Qu**
+
+
+### Introduction to Cool-Season Turfgrass Breeding in the United States
+Invited presentation at the GCSAA of China Conference
+
+Hainan, CN
+
+Dec 2015
+
+**HY Qu**
+
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+### Phytotoxicity of Methiozolin on Fine Fescue
+
+HortTechnology. 29(3), 265-270. doi:10.21273/HORTTECH04278-19
+
+N/A
+
+2019
+
+**HY Qu**, RM Daddio, PE McCullough, SA Bonos, WA Meyer.
+
+
+### Heritability of Simulated Wear and Traffic Tolerance in Three Fine Fescue Species
+
+HortScience. 53(4), 416-420. doi:/10.21273/HORTSCI12450-17
+
+N/A
+
+2018
+
+AL Grimshaw, **HY Qu**, WA Meyer, E Watkins, SA Bonos.
+
+ 
+### Performance of Perennial Ryegrass Cultivars and Selections in New Jersey Turf Trials
+
+2016 Rutgers Turfgrass Proceedings of the GREEN EXPO Turf and Landscape Conference.  101–104.
+
+N/A
+
+2016
+
+**HY Qu**, R Bara, D Smith, SA Bonos, WA Meyer
+
+### Performance of Perennial Ryegrass Cultivars and Selections in New Jersey Turf Trials
+
+2015 Rutgers Turfgrass Proceedings of the GREEN EXPO Turf and Landscape Conference.  125–128.
+
+N/A
+
+2015
+
+**HY Qu**, R Bara, D Smith, SA Bonos, WA Meyer
+
+### Performance of Perennial Ryegrass Cultivars and Selections in New Jersey Turf Trials
+
+2014 Rutgers Turfgrass Proceedings of the GREEN EXPO Turf and Landscape Conference.  131–134.
+
+N/A
+
+2014
+
+**HY Qu**, R Bara, D Smith, SA Bonos, WA Meyer
+
+
+Selected Awards {data-icon=file}
+--------------------------------------------------------------------------------
+### Watson Fellowship
+The Toro Company and the Environmental Institute for Golf (EIFG) of Golf Course Superintendents Association of America(GCSAA).
+
+N/A
+
+2018
+
+### Ralph Geiger Scholarship
+The Center for Turfgrass Science, Rutgers University
+
+N/A
+
+2017
+
+### Weston Memorial Scholarship
+The Center for Turfgrass Science, Rutgers University
+
+N/A
+
+2016
+
+### Peter Loft Memorial Scholarship
+The Center for Turfgrass Science, Rutgers University
+
+N/A
+
+2015
+
+### NJ State Golf Association& Ralph Engel Caddie Scholarship
+New Jersey State Golf Association
+
+N/A
+
+2014
+
+### Plant Science Excellence Award
+Department of Plant Biology and Pathology, Rutgers University 
+
+N/A
+
+2013
+
+### Academic Excellence Scholarship
+Department of Agricultural and Biology, Shanghai Jiao Tong University 
+
+N/A
+
+2011
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+
