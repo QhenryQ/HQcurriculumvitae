@@ -46,7 +46,7 @@ Main
 "Henry" Yuanshuo Qu {#title}
 --------------------------------------------------------------------------------
 
-I am a perpetual, quick learner and keen to explore the realm of plant genetics and data science. I am deeply excited about the times we live in and the rate at which data is being generated, analyzed and transformed. I am well versed with a few tools for dealing with data in crop genetics and agronomy, and looking forward to put what I have learned into modern agricultural practices.
+I am a perpetual, quick learner and keen to explore the realm of plant genetics and data science. I am deeply excited about the time we live in and the rate at which data is being generated, analyzed and transformed. I am well versed with a few tools for dealing with data in crop genetics and agronomy, and looking forward to put what I have learned into modern agricultural practices.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -54,7 +54,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Rutgers University
 
-PhD in Plant Breeding and Genetics, GPA: 3.8
+PhD in Plant Breeding and Genetics (GPA: 3.8)
 
 New Brunswick, NJ
 
@@ -62,18 +62,23 @@ New Brunswick, NJ
 
 Dissertation: Evaluation and Genetic Analysis of Tall Fescue(*Schedonorus arundinaceus*) for Drought Tolerance under Bayesian Framework.
 
+#### Selected Coursework
+Advanced Plant Physiology; Plant Breeding; Plant Molecular Biology; Advanced Plant Genetics; Plant Disease Clinic; Quantitative Ecology & Evolution  
+
 ### Rutgers University
 
-M.S. in Statistics, GPA: 3.9
+M.S. in Statistics (GPA: 3.9)
 
 Piscataway, NJ
 
 2015--2017
 
+#### Selected Coursework
+Biostatistics; Categorical Data Analysis; Applied Multivariate Analysis; Applied Time Series Analysis; Bayesian Data Analysis; Data Mining 
 
 ### Rutgers Univeristy
 
-B.A. in Plant Science, GPA: 3.8
+B.A. in Plant Science, Honors: *magna cum laude* (GPA: 3.8) 
 
 New Brunswick, NJ
 
@@ -81,7 +86,7 @@ New Brunswick, NJ
 
 ### Shanghai Jiao Tong Univeristy
 
-B.E. in Food Science and Engineering, GPA: 3.3
+B.E. in Food Science and Engineering (GPA: 3.3)
 
 Shanghai, CN
 
@@ -98,8 +103,9 @@ New Brunswick, NJ
 
 2014--2019
 
-- Designed and carried out multiple field trials for evaluation of turfgrass speices and cultivars
-- Developed Bayesian approaches to analyzing plant population datasets
+- Designed and carried out field trials for evaluation of turfgrasses.
+- Developed and implemented various new phenotyping methods for accurate and efficient data collection.
+- Introduced and standardized Bayesian approaches for analysis of field trial data.
 - Provided statistics consulting to other graduate students and researchers.
 
 ### Undergraduate Research Assistant
@@ -110,8 +116,8 @@ New Brunswick, NJ
 
 2011--2013
 
-- Assisted professors and graduate students with field experiments
-- Equipment operations and daily care of field studies
+- Assisted professors and graduate students with field experiments.
+- Equipment operations and daily care of field studies.
 
 Selected Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
