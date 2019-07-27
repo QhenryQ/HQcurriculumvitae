@@ -1,0 +1,34 @@
+---
+title: "Cover Letter"
+author: "Henry Q"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: true
+paged-footnotes: true
+---
+
+![Rutgers](./RU_LH.png){.logo}
+
+::: from
+Henry Yuanshuo Qu   
+592 Halls Mill Rd. Freehold, NJ 07728   
+Email: yuanshuo.qu@rutgers.edu    
+Cell: +1-732-485-1243   
+Date: `r Sys.Date()`
+:::
+
+Dear Hiring Manager,
+
+  My name is Henry Yuanshuo Qu, a fifth year PhD student studying plant breeding and genetics at Rutgers University. My dissertation focuses on genetics analysis of NDVI data collected from plant populations under drought stress. I am writing to apply for the Breeding Trial Specialist (18006899) position. 
+   
+  This position aligns nicely with my career interest of plant genetics and data science in modern agricultural practices. With over five years of training both in field trials and data analysis, I believe that my skill set fits perfectly with the requirements you are looking for in a candidate.For more information regarding my qualifications, please see attached files for my curriculum vitae, references and school transcript. 
+   
+   I would greatly appreciate an opportunity to discuss this position in more detail. Should you have any further questions, please feel free to contact me via my phone or email.
+
+Sincerely, 
+
+![Henry's signature](./Signature.png){width=20%} 
+
+Henry Y. Qu  
+
