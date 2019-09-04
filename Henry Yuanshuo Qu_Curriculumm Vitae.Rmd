@@ -13,7 +13,7 @@ Aside
 
 ![Henry Qu](./ProfilePic.png){width=80%}
 
-PhD student specializing in Bayesian data analysis, population genetics and teaching. On the market for agricultural data science positions.
+PhD student specializing in agricultural research, Bayesian data analysis, population genetics and teaching. On the market for agronomic data scientist positions.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -34,9 +34,12 @@ Skills {#skills}
 
 - Some SAS, Python and SQL
 
+- Github
+
+- Low maintenance and sustainable agriculture
+
 - Agronomy
 
-- Github
 
 
  
@@ -46,7 +49,7 @@ Main
 "Henry" Yuanshuo Qu {#title}
 --------------------------------------------------------------------------------
 
-I am a perpetual, quick learner and keen to explore the realm of plant genetics and data science. I am deeply excited about the time we live in and the rate at which data is being generated, analyzed and transformed. I am well versed with a few tools for dealing with data in crop genetics and agronomy, and looking forward to put what I have learned into modern agricultural practices.
+I am a perpetual, quick learner and keen to explore the realm of modern agriculture and data science. I am deeply excited about the time we live in and the rate at which data is being generated, analyzed and transformed. I am well versed with a few tools for dealing with data in crop genetics and agronomy, and looking forward to put what I have learned into modern agricultural practices. 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -60,9 +63,11 @@ New Brunswick, NJ
 
 2014--present
 
-Dissertation: Evaluation and Genetic Analysis of Tall Fescue(*Schedonorus arundinaceus*) for Drought Tolerance under Bayesian Framework.
+**Dissertation:** Genetic Analysis of Response of Tall Fescue(*Schedonorus arundinaceus*) in Rain-out Shelter under Bayesian Framework.
+**Keywords:** BLUP, GBLUP, Mixed linear models, Estimated breeding values, Heritability, Predication accuracy  
 
-#### Selected Coursework
+**Selected Coursework**
+
 Advanced Plant Physiology; Plant Breeding; Plant Molecular Biology; Advanced Plant Genetics; Plant Disease Clinic; Quantitative Ecology & Evolution  
 
 ### Rutgers University
@@ -90,7 +95,7 @@ B.E. in Food Science and Engineering (GPA: 3.3)
 
 Shanghai, CN
 
-2011--2013
+2008--2011
 
 Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------

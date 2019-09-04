@@ -7,7 +7,6 @@ output:
 links-to-footnotes: true
 paged-footnotes: true
 ---
-
 ![Rutgers](./RU_LH.png){.logo}
 
 ::: from
@@ -20,11 +19,25 @@ Date: `r Sys.Date()`
 
 Dear Hiring Manager,
 
-  My name is Henry Yuanshuo Qu, a fifth year PhD student studying plant breeding and genetics at Rutgers University. My dissertation focuses on genetics analysis of NDVI data collected from plant populations under drought stress. I am writing to apply for the Breeding Trial Specialist (18006899) position. 
+  My name is "Henry" Yuanshuo Qu, a fifth-year Ph.D. student studying plant breeding and genetics at Rutgers University.  
    
-  This position aligns nicely with my career interest of plant genetics and data science in modern agricultural practices. With over five years of training both in field trials and data analysis, I believe that my skill set fits perfectly with the requirements you are looking for in a candidate.For more information regarding my qualifications, please see attached files for my curriculum vitae, references and school transcript. 
+  **Role and Location**
+  
+  I am applying for the position of Staff Scientist on Sustainable Food and Farming. Regarding location, either Washington, DC or New York, NY is fine with me. 
+  
+  **Relevant Background**
    
-   I would greatly appreciate an opportunity to discuss this position in more detail. Should you have any further questions, please feel free to contact me via my phone or email.
+  This position aligns with my academic background. My undergraduate studies have exposed me broadly to food safety and plant biology. My graduate program has provided me with opportunities to observe and participate in modern agricultural research and production. Specifically, my dissertation project focuses on the genetic analysis of grass populations under drought stress with the objective to enhance sustainability and reduce inputs of resources. During the past five years, I have been trained extensively not only in field research, but also in Bayesian statistics, quantitative data analysis and data visualization. Please refer to my resume for more information regarding my qualifications.
+  
+  **Why Earthjustice? **
+  
+  I have always been interested in legal and justice issues, as I believe laws manifest social contract, upon which a civil society builds. I am trained to think from the perspective of a crop geneticist. Improvement of agronomic traits, such as yield, disease resistance, and drought tolerance are what we constantly emphasize. However, in many instances, only focusing on the crop itself does not solve the problems in modern agriculture. The soybean farmers in the US can produce millions of tons of soybeans, but are still facing an uncertain future amid the trade war. Glyphosate has been used in agricultural production since 1974, but there are still heated debates about the safety of it in general public. GMOs, how can we take advantage of genetic engineering while minimizing potential risks? These are all problems that plant geneticists cannot solve alone. Earthjustice provides a unique opportunity by bringing people with different expertise together, and it would be my great honor to be part of this team.     
+  
+  **Earthjustice and Career Aspiration**  
+  
+  Agricultural entrepreneurship is one of the core values of America. It is also a personal dream to start my own business to promote sustainable and environmental-friendly agricultural practices in the future. The opportunity at Earthjustice will not only deepen my understanding of American agriculture from different perspectives, but also help to connect with people sharing the same vision. 
+   
+   I am excited to learn more about this position and would greatly appreciate the opportunity to discuss in futher detail. Should you have any questions, please feel free to contact me via my phone or email.
 
 Sincerely, 
 
