@@ -13,26 +13,25 @@ Aside
 
 ![Henry Qu](./ProfilePic.png){width=80%}
 
-PhD student specializing in agricultural research, Bayesian data analysis, population genetics and teaching. On the market for agronomic data scientist positions.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope" style="font-size:13px"></i> yuanshuo.qu@rutgers.edu
+- <i class="fa fa-envelope" style="font-size:13px"></i> henry.yqu@gmail.com
 - <i class="fa fa-linkedin-square" style="font-size:15px"></i> [linkedin.com/in/henryyqu](https://www.linkedin.com/in/henryyqu/)
-- <i class="fa fa-phone" style="font-size:13px"></i> +1 732-482-1243
+- <i class="fa fa-phone" style="font-size:13px"></i> +1-732-485-1243
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Expert in R and R Studio.
+- Expert in R and Python.
 
 - Experienced in Bayesian data analysis with JAGS and BUGS.
 
 - Expert in communicating to scientific and general public.
 
-- Some SAS, Python and SQL
+- Some SAS and SQL
 
 - Github
 
@@ -63,7 +62,7 @@ New Brunswick, NJ
 
 2014--present
 
-**Dissertation:** Genetic Analysis of Response of Tall Fescue(*Schedonorus arundinaceus*) in Rain-out Shelter under Bayesian Framework.
+**Dissertation:** Analysis and Evaluation Tall Fescue(*Festuca arundinacea*) for Low Maintenance Applications.
 **Keywords:** BLUP, GBLUP, Mixed linear models, Estimated breeding values, Heritability, Predication accuracy  
 
 **Selected Coursework**
