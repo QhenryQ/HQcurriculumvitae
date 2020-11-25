@@ -1,0 +1,395 @@
+---
+title: "Henry Y. Qu"
+author: "Henry Y. Qu"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+knit: pagedown::chrome_print
+---
+Aside
+================================================================================
+
+
+![Henry Qu](./ProfilePic.png){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope" style="font-size:13px"></i> henry.yqu@gmail.com
+- <i class="fa fa-linkedin-square" style="font-size:15px"></i> [linkedin.com/in/henryyqu](https://www.linkedin.com/in/henryyqu/)
+- <i class="fa fa-phone" style="font-size:13px"></i> +1 732-485-1243
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Highly skilld in Python and R
+
+- Some SAS and SQL
+
+- Experienced in Bayesian data analysis with JAGS and BUGS.
+
+- Expert in communicating to scientific and general public.
+
+- Low maintenance and sustainable agriculture
+
+- Germplasm evaluation and cultivar development
+
+- Experimental design and execution
+
+
+
+
+ 
+Main
+================================================================================
+
+Henry Yuanshuo Qu {#title}
+--------------------------------------------------------------------------------
+
+I am a quick learner and a solid team member. I am keen to explore the realm of modern agromony and data science, excited about the rate at which data is being generated, analyzed and transformed, and looking forword to utilize my data science skills to solve problems that matter in agriculture. 
+
+Working Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### Indigo Ag
+
+Agricultural Data Scientist
+
+Boston, MA
+
+10/2020 -- present
+
+- Development of rigorous statistical and machine-learning models of global agriculture production 
+- Promoting regenerative agricultural practises,e.g., use of cover crop, no-till farming
+- Helping farmers sustainably feed the planet 
+
+### Rutgers Professional Golf Turf Management School
+
+Instructor
+
+New Brunswick, NJ
+
+01/2017 -- 01/2019
+
+- Designed course curriculum, lesson plans, and assessment tools for diverse groups of students.
+- Chaperoned field trips to encourage hands-on learning. 
+- 80% or higher overall course evaluation scores for all four semesters. 
+
+**Student Comments:**
+
+*"Henry is a great instructor who is eager to share his knowledge with us."*
+
+*"Henry is a very good teacher and very understanding and knows how to relate to the students."*
+
+*"He did a great job describing everything and making learning all the different grasses easy, also was very helpful meeting after classes, giving up his own time."*
+
+
+### Augusta National Golf Club
+
+Golf Course Intern
+
+Augusta, GA
+
+11/2013 -- 05/2014
+
+- Team member in the successful execution of the 78^th^ Masters Tournament
+- Worked closely with Par 3 Manager on daily course setup, maintenance and preparation
+- Pesticide application, fertilization and irrigation maintenance
+
+### Plainfield Country Club
+
+Golf Course Intern
+
+Edison, NJ
+
+03/2013 -- 10/2013
+
+- Daily course setup, maintenance and preparation
+- Monitor of bentgrass turf on tees, fairways and greens
+- Worked with assistants on irrigation management, small construction and renovation projects 
+
+
+Education Background {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Rutgers University
+
+Ph.D.in Plant Breeding and Genetics (GPA: 3.8)
+
+New Brunswick, NJ
+
+09/2014 -- 10/2020
+
+**Dissertation**  
+Genetic Analysis and Evaluation OF Tall Fescue(*Festuca arundinacea*) for Low Maintenance Applications    
+**Keywords:** BLUP; GBLUP; Mixed linear models; Estimated breeding values; Variance components; Heritability; Predication accuracy  
+
+**Adviser:** Dr. William Meyer  
+
+**Plant Cultivars Released:  
+** *Festuca arundinacea* RHL2;  *Lolium perenne* Pharaoh
+
+**Selected Coursework**  
+Plant Physiology; Advanced Plant Breeding; Plant Molecular Biology; Advanced Plant Genetics; Principles of Plant Pathology; Plant Disease Clinic; Quantitative Ecology & Evolution  
+
+
+### Rutgers University
+
+M.S. in Statistics (GPA: 3.9)
+
+Piscataway, NJ
+
+09/2015 -- 05/2017
+
+**Selected Coursework**  
+Biostatistics; Categorical Data Analysis; Applied Multivariate Analysis; Applied Time Series Analysis; Interpretation of Data; Bayesian Data Analysis; Data Mining 
+
+### Rutgers University
+
+B.S. in Plant Science, Honors: *magna cum laude* (GPA: 3.8) 
+
+New Brunswick, NJ
+
+09/2011 -- 05/2013
+
+### Shanghai Jiao Tong University
+
+B.E. in Food Science and Engineering (GPA: 3.3)
+
+Shanghai, CN
+
+09/2008 -- 05/2011
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Rutgers University
+
+New Brunswick, NJ
+
+09/2014 -- 01/2020
+
+- Designed and carried out field trials for evaluation of turfgrasses.
+- Developed and implemented various phenotyping methods for accurate and efficient data collection.
+- Provided statistics consulting to other graduate students and researchers.
+
+
+### Undergraduate Research Assistant
+
+Rutgers University
+
+New Brunswick, NJ
+
+01/2012 -- 01/2013
+
+- Assisted professors and graduate students with field experiments.
+- Equipment operations and daily care of field studies.
+- Data collection and aggregation. 
+
+
+Community Services {data-icon=users}
+--------------------------------------------------------------------------------
+### Workshops | ASA, CSSA & SSSA International Annual Meetings 
+
+Teaching Assistance - Intro to Python Data Analysis and Visualization Tools
+
+Online
+
+11/2020
+
+### Agronomy Journal
+
+Associate Editor
+
+N/A
+
+01/2020 -- present
+
+### Agrosystems, Geosciences & Environment Journal
+
+Associate Editor
+
+N/A
+
+01/2020 -- present
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### Genetic Analysis of Tall Fescue Populations Under Rainout Shelter Selection
+
+Oral presentation at 2019 ASA and CSSA Meeting
+
+San Antonio, TX
+
+11/2019
+
+**H Qu**, EJ Green, SA Bonos, WA Meyer
+
+### Application of Bayesian Statistics to Genotype Evaluation and Phenotypic Selection
+
+Oral presentation at 2018 ASA and CSSA Meeting
+
+Baltimore, MD
+
+11/2018
+
+**HY Qu**, EJ Green, SA Bonos, WA Meyer
+
+
+### Turf Industry in the United States 
+Invited presentation at New Jersey Institute of Technology
+
+Newark, NJ
+
+02/2017
+
+**HY Qu**
+
+
+### Introduction to Cool-Season Turfgrass Breeding and the Golf Industry in the United States 
+Invited presentation at GCSAA Conference of China
+
+Hainan, CN
+
+12/2015
+
+**HY Qu**
+
+
+Selected Publications {data-icon=file data-concise=true}
+--------------------------------------------------------------------------------
+### Evaluation and genetic analysis of red thread (*Laetisaria fuciformis*) disease prevalence in tall fescue (*Festuca arundinacea*)
+
+International Turfgrass Society Research Journal 
+https://doi.org/10.1002/its2.20
+
+N/A
+
+2020
+
+**HY Qu**, EJ Green, PL Vines, SD Wu, BB Clarke, SA Bonos, WA Meyer.
+
+### Phytotoxicity of Methiozolin on Fine Fescue
+
+HortTechnology. 29(3), 265-270.   
+https://doi.org/10.21273/HORTTECH04278-19
+
+N/A
+
+2019
+
+**HY Qu**, RM Daddio, PE McCullough, SA Bonos, WA Meyer.
+
+
+
+### Heritability of Simulated Wear and Traffic Tolerance in Three Fine Fescue Species
+
+HortScience. 53(4), 416-420.   
+https://doi.org/10.21273/HORTSCI12450-17
+
+N/A
+
+2018
+
+AL Grimshaw, **HY Qu**, WA Meyer, E Watkins, SA Bonos.
+
+ 
+### Performance of Perennial Ryegrass Cultivars and Selections in New Jersey Turf Trials
+
+2016 Rutgers Turfgrass Proceedings of the GREEN EXPO Turf and Landscape Conference.  101–104.
+
+N/A
+
+2016
+
+**HY Qu**, R Bara, D Smith, SA Bonos, WA Meyer
+
+### Performance of Perennial Ryegrass Cultivars and Selections in New Jersey Turf Trials
+
+2015 Rutgers Turfgrass Proceedings of the GREEN EXPO Turf and Landscape Conference.  125–128.
+
+N/A
+
+2015
+
+**HY Qu**, R Bara, D Smith, SA Bonos, WA Meyer
+
+### Performance of Perennial Ryegrass Cultivars and Selections in New Jersey Turf Trials
+
+2014 Rutgers Turfgrass Proceedings of the GREEN EXPO Turf and Landscape Conference.  131–134.
+
+N/A
+
+2014
+
+**HY Qu**, R Bara, D Smith, SA Bonos, WA Meyer
+
+
+Selected Awards {data-icon=award}
+--------------------------------------------------------------------------------
+### Watson Fellowship
+The Toro Company and the Environmental Institute for Golf (EIFG) of Golf Course Superintendents Association of America(GCSAA).
+
+N/A
+
+2018
+
+### Ralph Geiger Scholarship
+The Center for Turfgrass Science, Rutgers University
+
+N/A
+
+2017
+
+### Weston Memorial Scholarship
+The Center for Turfgrass Science, Rutgers University
+
+N/A
+
+2016
+
+### Peter Loft Memorial Scholarship
+The Center for Turfgrass Science, Rutgers University
+
+N/A
+
+2015
+
+### NJ State Golf Association& Ralph Engel Caddie Scholarship
+New Jersey State Golf Association
+
+N/A
+
+2014
+
+### Plant Science Excellence Award
+Department of Plant Biology and Pathology, Rutgers University 
+
+N/A
+
+2013
+
+### Academic Excellence Scholarship
+Department of Agricultural and Biology, Shanghai Jiao Tong University
+
+N/A
+
+2011
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+
